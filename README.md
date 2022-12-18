@@ -35,5 +35,5 @@ In this Project, a user can view the list of recently released movies and he can
 Mainly there are two panels in this project.
 1. User Panel
 2. Admin Panel
-> In user panel, User can view the list of available movies and can book a ticket, view the purchased ticket, cancel the purchased ticket all these activites can be done by a user
+> In user panel, User can view the list of available movies and can book a ticket, view the purchased ticket, cancel the purchased ticket all these activites can be done by a user.
 > In Admin panel, Admin can view the list of users who are registered in the website and he can also add new movies, add new shows all these activites can be done by Admin.
